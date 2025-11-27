@@ -46,17 +46,14 @@ display_img(dilution)
 
 ### Display the input Image
 
-<img width="1258" height="655" alt="image" src="<img width="1302" height="642" alt="image" src="https://github.com/user-attachments/assets/d8579a3a-7dde-41a5-a2e9-bd2718bc3c2b" />
-" />
+<img width="1258" height="655" alt="image" src="https://github.com/user-attachments/assets/d8579a3a-7dde-41a5-a2e9-bd2718bc3c2b" />
 
 ### Display the Eroded Image
 
-<img width="1270" height="658" alt="image" src="<img width="1287" height="642" alt="image" src="https://github.com/user-attachments/assets/589520ab-a749-4097-8a75-8965760c576e" />
-" />
+<img width="1270" height="658" alt="image" src="https://github.com/user-attachments/assets/589520ab-a749-4097-8a75-8965760c576e" />
 
 ### Display the Dilated Image
-<img width="1266" height="645" alt="image" src="<img width="1278" height="652" alt="image" src="https://github.com/user-attachments/assets/c2f123ea-56f3-435b-84d4-f6577bf251a2" />
-" />
+<img width="1266" height="645" alt="image" src="https://github.com/user-attachments/assets/c2f123ea-56f3-435b-84d4-f6577bf251a2" />
 
 
 
